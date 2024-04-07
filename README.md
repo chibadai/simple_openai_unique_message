@@ -1,0 +1,2 @@
+# simple_openai_unique_message
+単純な会話システムをOpenAIを用いて開発する
