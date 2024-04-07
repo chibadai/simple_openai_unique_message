@@ -1,2 +1,3 @@
 .env/
 message_board/node_modules/
+message_board/.env
